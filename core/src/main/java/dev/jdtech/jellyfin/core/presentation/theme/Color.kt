@@ -41,7 +41,7 @@ data object ColorLight {
 }
 
 data object ColorDark {
-    val primaryDark = Color(0xFFA4C9FE)
+    val primaryDark = Color(0xFF01D4FF)
     val onPrimaryDark = Color(0xFF00315C)
     val primaryContainerDark = Color(0xFF1F4876)
     val onPrimaryContainerDark = Color(0xFFD3E3FF)
